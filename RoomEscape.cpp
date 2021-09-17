@@ -1,3 +1,9 @@
+/*
+개발자: 오해린 
+개발일: 2021.09.07
+문의: ohaelin9@gmail.com
+*/ 
+
 #include <stdio.h> 
 #include <stdlib.h>
 #include <string.h>
